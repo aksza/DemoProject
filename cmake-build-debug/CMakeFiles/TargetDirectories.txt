@@ -1,0 +1,3 @@
+D:/egyetem/elso ev/masodik felev/algo/kodok/DemoProject/cmake-build-debug/CMakeFiles/DemoProject.dir
+D:/egyetem/elso ev/masodik felev/algo/kodok/DemoProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/egyetem/elso ev/masodik felev/algo/kodok/DemoProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
